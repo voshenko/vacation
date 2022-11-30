@@ -1,0 +1,10 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "vacations"
+  },
+  "dbFileEncoding": "utf8",
+  "maxCookieAge": 60000
+}
